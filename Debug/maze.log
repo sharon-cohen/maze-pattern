@@ -1,0 +1,13 @@
+﻿  Cell.cpp
+  HashMap.cpp
+  History.cpp
+  main.cpp
+  Maze2d.cpp
+  mazeCompration.cpp
+  MazeSearcable.cpp
+  Mycontroller,cpp.cpp
+  MyMaze2dGenerator.cpp
+  SimpleMaze2dGenerator.cpp
+  viewCLI.cpp
+  Generating Code...
+  maze.vcxproj -> C:\Users\sharo\source\repos\meaze00\Debug\maze.exe
